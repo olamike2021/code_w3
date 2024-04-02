@@ -1,0 +1,50 @@
+2 is a prime number
+3 is a prime number
+4 equals 2 * 2
+5 is a prime number
+6 equals 2 * 3
+7 is a prime number
+8 equals 2 * 4
+9 equals 3 * 3
+cat 3
+window 6
+defenestrate 12
+Hamburg 7
+Iphone- 15-pro-max 18
+Television 10
+sound-bar 9
+lenvovo-computer 16
+printer-HP 10
+food-stuff 10
+working-office 14
+0 Mary
+1 Had
+2 a
+3 little
+4 lamb
+yes, 'python' is present.
+python is fantastic
+python is awesome
+True
+True
+False
+(20, 10, 40)
+['d', 'o', 'g', 'c', 'a', 't', 'r', 'a', 'b', 'b', 'i', 't']
+please enter your building_number your house_buiding in all capital is 9 and has length 1
+('apple', 'banana', 'cherry')
+10
+folorunso
+cherry
+('cherry', 'orange', 'mango')
+<class 'tuple'>
+<class 'str'>
+<class 'tuple'>
+<class 'tuple'>
+<class 'tuple'>
+('apple', 'banana', 'cherry')
+(1, 5, 7, 9, 3)
+(True, False, False)
+('apple', 'banana', 'cheery')
+<class 'tuple'>
+('apple', 'grape-fruit', 'lemon-range')
+<class 'tuple'>
